@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
-"assets/AssetManifest.bin": "e1cfd95d998dae878d3a9a3c545f8f0f",
+const RESOURCES = {"assets/AssetManifest.bin": "e1cfd95d998dae878d3a9a3c545f8f0f",
 "assets/AssetManifest.json": "5b4e2cba27e17127c76f94e5cac17bb6",
 "assets/assets/icons/add%2520poster.svg": "a30e4e876b30b2fc73a37d2688958323",
 "assets/assets/icons/Documents.svg": "0d66436fde3818811c82319665ef91fd",
@@ -39,7 +38,7 @@ const RESOURCES = {"404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "6e3a45b300b0c0f6ba5d30507cc147bb",
 "assets/loading.gif": "7a63480a257cdcc94fea9fa407908cbf",
-"assets/NOTICES": "76f0012e97c587d7e979082db4916c69",
+"assets/NOTICES": "f1ec755d50bbd12d263799c9f5100d18",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -53,9 +52,9 @@ const RESOURCES = {"404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "b1e03f14e31bfbaae6d73f19da655097",
-"/": "b1e03f14e31bfbaae6d73f19da655097",
-"main.dart.js": "a0556acf65a1e830bb188202da937e58",
+"index.html": "a6c74afabf758acea1a2faceac6e6c7e",
+"/": "a6c74afabf758acea1a2faceac6e6c7e",
+"main.dart.js": "f95b52c9c9a828efe300a41886e2f4a3",
 "manifest.json": "eb0967c213ff3e1cc1170c85fc8b5515",
 "version.json": "e9eb58db72d407be27e9fa052224c304"};
 // The application shell files that are downloaded before a service worker can
